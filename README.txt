@@ -35,6 +35,12 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+		<span>Photo by <a href="https://unsplash.com/@arnosenoner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Arno Senoner</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+		<span>Photo by <a href="https://unsplash.com/@joszczepanska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jo Szczepanska</a> on <a href="https://unsplash.com/s/photos/management?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+		<span>Photo by <a href="https://unsplash.com/@clayton_cardinalli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Clayton Cardinalli</a> on <a href="https://unsplash.com/s/photos/employee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+		<span>Photo by <a href="https://unsplash.com/@easiblu?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eftakher Alam</a> on <a href="https://unsplash.com/s/photos/web-app?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+		<span>Photo by <a href="https://unsplash.com/@gilleslambert?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Gilles Lambert</a> on <a href="https://unsplash.com/s/photos/web-app?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+		<span>Photo by <a href="https://unsplash.com/@luisviol?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Luis Villasmil</a> on <a href="https://unsplash.com/s/photos/web-app?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 	Icons:
 		Font Awesome (fontawesome.io)
